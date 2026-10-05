@@ -25,6 +25,8 @@ straight-line (or flat-plane) relationship between a house's features and its pr
 - MSE: 28,827.8  
 
 **- MODEL DIVERGE**
+
+
 <img width="599" height="579" alt="Captura de pantalla 2026-10-05 145355" src="https://github.com/user-attachments/assets/b96afdd6-c60c-4a32-b239-29a51a7e57ad" />
 
 **- DIVERGENCE WARNING**
