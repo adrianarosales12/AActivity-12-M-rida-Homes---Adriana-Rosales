@@ -26,9 +26,24 @@ straight-line (or flat-plane) relationship between a house's features and its pr
 <img width="584" height="562" alt="Captura de pantalla 2026-10-05 145412" src="https://github.com/user-attachments/assets/0e2e3ce1-7318-46b9-b3e6-29194f28d5ea" />
 
 
-
+---
 3. **Record the Canonical Model's slope, intercept, R², and MSE** from the One-Variable tab. Take a screenshot.
 
+- COMBINATION 1
+<img width="577" height="600" alt="Captura de pantalla 2026-10-05 145754" src="https://github.com/user-attachments/assets/c1505119-302b-401b-8ebc-8f7838924fec" />
+
+- COMBINATION 2
+<img width="581" height="647" alt="Captura de pantalla 2026-10-05 145844" src="https://github.com/user-attachments/assets/e2ce065f-e3ea-4b7b-8a58-4b4d17442c49" />
+
+- COMBINATION 3
+<img width="558" height="598" alt="Captura de pantalla 2026-10-05 145735" src="https://github.com/user-attachments/assets/48f4683c-2acb-4fdb-a409-d9722ac71eca" />
+
+- ALL
+
+<img width="581" height="602" alt="Captura de pantalla 2026-10-05 145812" src="https://github.com/user-attachments/assets/77910a6f-c812-41b9-9ba2-823c299ac14a" />
+
+
+---
 4. **In the Multi-Variable tab, toggle features on and off in the playground** and watch R² change. Take a screenshot showing at least two different feature combinations and their R² values.
 
 5. **Record the Canonical (all 4 features) Model's coefficients, R², and MSE.** Take a screenshot.
