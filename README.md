@@ -30,6 +30,8 @@ straight-line (or flat-plane) relationship between a house's features and its pr
 <img width="599" height="579" alt="Captura de pantalla 2026-10-05 145355" src="https://github.com/user-attachments/assets/b96afdd6-c60c-4a32-b239-29a51a7e57ad" />
 
 **- DIVERGENCE WARNING**
+
+
 <img width="584" height="562" alt="Captura de pantalla 2026-10-05 145412" src="https://github.com/user-attachments/assets/0e2e3ce1-7318-46b9-b3e6-29194f28d5ea" />
 
 
