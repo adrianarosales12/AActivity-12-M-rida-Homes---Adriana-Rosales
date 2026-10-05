@@ -51,6 +51,15 @@ straight-line (or flat-plane) relationship between a house's features and its pr
 ---
 4. **In the Multi-Variable tab, toggle features on and off in the playground** and watch R² change. Take a screenshot showing at least two different feature combinations and their R² values.
 
+- Single-variable prediction (150 m²): 1,348.3 thousand MXN
+<img width="350" height="110" alt="Captura de pantalla 2026-10-05 151511" src="https://github.com/user-attachments/assets/6de7b5d0-11f8-4352-bd23-9ad1bbace2f6" />
+
+- Multi-variable prediction (150 m², 3 bedrooms, 5 years, 4 km): 1,559.3 MXM
+<img width="518" height="115" alt="Captura de pantalla 2026-10-05 151551" src="https://github.com/user-attachments/assets/356f4faa-6b52-47b0-a031-b6494cbbe86d" />
+
+
+
+---
 5. **Record the Canonical (all 4 features) Model's coefficients, R², and MSE.** Take a screenshot.
 
 6. **Use both canonical prediction tools** to predict the price of the **same house**: 150 m², 3 bedrooms, 5 years old, 4 km from downtown. Take a screenshot of both predictions.
