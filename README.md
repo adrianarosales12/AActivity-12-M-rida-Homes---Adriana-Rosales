@@ -1,6 +1,7 @@
 # Activity 12: Mérida Homes — Predicting Property Prices
 ## Sessions 20, 21
 ## Due date (mm/dd/yyyy): 10/11/2026
+## Adriana Rosales Gonzalez
 ## Delivery Format: [] Video URL | [X] Markdown file | [] Jupyter Notebook file
 
 ---
