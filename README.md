@@ -18,30 +18,40 @@ straight-line (or flat-plane) relationship between a house's features and its pr
 2. **In the One-Variable tab, try at least 3 different learning rates in the playground**, including one large enough to make the model diverge. Take a screenshot of the divergence
    warning.
 
-- MODEL DIVERGE
+**One-Variable Canonical Model**
+- Slope (w): 8.621  
+- Intercept (b): 55.18  
+- R²: 0.9187  
+- MSE: 28,827.8  
+
+**- MODEL DIVERGE**
 <img width="599" height="579" alt="Captura de pantalla 2026-10-05 145355" src="https://github.com/user-attachments/assets/b96afdd6-c60c-4a32-b239-29a51a7e57ad" />
 
-
-- DIVERGENCE WARNING
+**- DIVERGENCE WARNING**
 <img width="584" height="562" alt="Captura de pantalla 2026-10-05 145412" src="https://github.com/user-attachments/assets/0e2e3ce1-7318-46b9-b3e6-29194f28d5ea" />
 
 
 ---
 3. **Record the Canonical Model's slope, intercept, R², and MSE** from the One-Variable tab. Take a screenshot.
+**
+- Coeficients:  **
+  - Size (m²): 8.15  
+  - Bedrooms: 35.54  
+  - Age (years): -9.27  
+  - Distance to downtown (km): -14.29
+ 
+   
+- Intercept: 333.17  
+- R²: 0.9693  
+- MSE: 10,880.2
+
 
 - COMBINATION 1
 <img width="577" height="600" alt="Captura de pantalla 2026-10-05 145754" src="https://github.com/user-attachments/assets/c1505119-302b-401b-8ebc-8f7838924fec" />
 
 
-
 - COMBINATION 2
 <img width="581" height="647" alt="Captura de pantalla 2026-10-05 145844" src="https://github.com/user-attachments/assets/e2ce065f-e3ea-4b7b-8a58-4b4d17442c49" />
-
-
-
-- COMBINATION 3
-<img width="558" height="598" alt="Captura de pantalla 2026-10-05 145735" src="https://github.com/user-attachments/assets/48f4683c-2acb-4fdb-a409-d9722ac71eca" />
-
 
 
 - ALL VARIABLES
@@ -61,6 +71,10 @@ straight-line (or flat-plane) relationship between a house's features and its pr
 
 ---
 5. **Record the Canonical (all 4 features) Model's coefficients, R², and MSE.** Take a screenshot.
+
+The multivariable model is more accurate because it considers more factors (number of bedrooms, age, and distance), which improves the fit and reduces error.  
+The single-variable model is simpler and faster to interpret, but it ignores important information.  
+In real-world scenarios, real estate agencies use multivariable models to estimate more realistic prices, since a house's value depends not only on its size but also on its location and age.
 
 6. **Use both canonical prediction tools** to predict the price of the **same house**: 150 m², 3 bedrooms, 5 years old, 4 km from downtown. Take a screenshot of both predictions.
 
