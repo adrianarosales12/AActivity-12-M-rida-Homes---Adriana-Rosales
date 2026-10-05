@@ -42,21 +42,23 @@ straight-line (or flat-plane) relationship between a house's features and its pr
   - Age (years): -9.27  
   - Distance to downtown (km): -14.29
  
-   
-- Intercept: 333.17  
-- R²: 0.9693  
-- MSE: 10,880.2
+   **- Intercept: **333.17  
+**   - R²:** 0.9693  
+**   - MSE:** 10,880.2
 
 
 - COMBINATION 1
+   - Bedrooms and Distance to downtown (km)
 <img width="577" height="600" alt="Captura de pantalla 2026-10-05 145754" src="https://github.com/user-attachments/assets/c1505119-302b-401b-8ebc-8f7838924fec" />
 
 
 - COMBINATION 2
+   - Bedrooms and Age (years) 
 <img width="581" height="647" alt="Captura de pantalla 2026-10-05 145844" src="https://github.com/user-attachments/assets/e2ce065f-e3ea-4b7b-8a58-4b4d17442c49" />
 
 
 - ALL VARIABLES
+   - Bedrooms, Age (years), and Distance to downtown (km) 
 <img width="581" height="602" alt="Captura de pantalla 2026-10-05 145812" src="https://github.com/user-attachments/assets/77910a6f-c812-41b9-9ba2-823c299ac14a" />
 
 
@@ -70,7 +72,6 @@ straight-line (or flat-plane) relationship between a house's features and its pr
 <img width="518" height="115" alt="Captura de pantalla 2026-10-05 151551" src="https://github.com/user-attachments/assets/356f4faa-6b52-47b0-a031-b6494cbbe86d" />
 
 
-
 ---
 5. **Record the Canonical (all 4 features) Model's coefficients, R², and MSE.** Take a screenshot.
 
@@ -79,6 +80,8 @@ The single-variable model is simpler and faster to interpret, but it ignores imp
 In real-world scenarios, real estate agencies use multivariable models to estimate more realistic prices, since a house's value depends not only on its size but also on its location and age.
 
 6. **Use both canonical prediction tools** to predict the price of the **same house**: 150 m², 3 bedrooms, 5 years old, 4 km from downtown. Take a screenshot of both predictions.
+
+
 
 7. **Fill out `A12_ReflectionQuestions.md`**, using the exact numbers from your Canonical Model screenshots, and submit it along with your labeled screenshots.
 ---
